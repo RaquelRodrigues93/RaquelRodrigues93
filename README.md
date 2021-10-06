@@ -13,7 +13,7 @@ My current stack is:
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-Please, feel free to contact me in the below social media \o
+Please, feel free to contact me in any social media below
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raquel-f-rodrigues/)](https://www.linkedin.com/in/raquel-f-rodrigues/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/raquel.rdgues)](https://www.facebook.com/raquel.rdgues)
