@@ -1,6 +1,6 @@
-### Hello, peoople! 👋 It's-a Me, Raquel Rodrigues!
+### Hello 👋 It's-a Me, Raquel Rodrigues!
 
-I'm a brazilian female :ng_woman: front-end developer, with solid experience in JS. I'm always seeking for new learnings, challenges and friends :heart_eyes:
+I'm a brazilian female :sassy_woman: front-end developer, with solid experience in JS. I'm always seeking for new learnings, challenges and friends :heart_eyes:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelRodrigues93&layout=compact)](https://github.com/RaquelRodrigues93/github-readme-stats)
 
