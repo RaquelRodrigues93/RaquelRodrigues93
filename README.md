@@ -1,4 +1,4 @@
-### Hello 👋 It's-a Me, Raquel Rodrigues!
+### Hello 👋 It's-a me, Raquel Rodrigues!
 
 I'm a brazilian female :sassy_woman: front-end developer, with solid experience in JS. 
 I'm seeking for new learnings, challenges and friends :heart_eyes:
