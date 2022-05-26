@@ -1,16 +1,13 @@
 ### Hello 👋 It's-a me, Raquel Rodrigues!
 
 I'm a brazilian female :sassy_woman: front-end developer, with solid experience in JS. 
-I'm seeking for new learnings, challenges and friends :heart_eyes:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelRodrigues93&layout=compact)](https://github.com/RaquelRodrigues93/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelRodrigues93&count_private=true&show_icons=true&theme=dracula" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelRodrigues93&layout=compact&count_private=true&show_icons=true&theme=dracula"/>
 
 My current stack is:
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
