@@ -1,5 +1,5 @@
 ### Hello 👋 It's-a me, Raquel Rodrigues!
-I'm a brazilian female :sassy_woman: software engineer.
+I'm a brazilian female :sassy_woman: software engineer. Passionate about adding value to projects and enhancing team cooperation, I focus on understanding team dynamics to contribute effectively. Excited to face new challenges and deliver impactful solutions!
 
 
 Please, feel free to contact me in any social media below
