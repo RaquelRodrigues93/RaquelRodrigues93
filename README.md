@@ -1,6 +1,5 @@
 ### Hello 👋 It's-a me, Raquel Rodrigues!
-
-I'm a brazilian female :sassy_woman: software enginee
+I'm a brazilian female :sassy_woman: software engineer.
 
 
 Please, feel free to contact me in any social media below
