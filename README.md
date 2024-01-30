@@ -1,8 +1,6 @@
 ### Hello 👋 It's-a me, Raquel Rodrigues!
 
-I'm a brazilian female :sassy_woman: front-end developer.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelRodrigues93&count_private=true&show_icons=true&theme=dracula" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelRodrigues93&layout=compact&count_private=true&show_icons=true&theme=dracula"/>
+I'm a brazilian female :sassy_woman: software engineer.
 
 My current stack is:
 
